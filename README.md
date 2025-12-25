@@ -7,9 +7,13 @@
 
 ---
 
-## ⚠️ **Attention**
+## ⚠️ **Community Projects!**
 
-There are some known issues right now with color and some animations, these will be fixed with time.
+SmoothDude's Rainbow Texture Pack, you can [Download it here!](https://chromewebstore.google.com/detail/back-2-basics/ibofdlnmieodappidajpeamlpdagkjca)</br>
+[![Rainbow Pack Showcase](https://img.youtube.com/vi/gxWs-UQozRU/hqdefault.jpg)](https://www.youtube.com/watch?v=gxWs-UQozRU)
+
+SmoothDude's Texture Pack Tutorial:</br>
+[![Texture Pack Tutorial](https://img.youtube.com/vi/uNl8ZCnUCcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=uNl8ZCnUCcQ)
 
 ---
 
