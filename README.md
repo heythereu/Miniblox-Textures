@@ -9,7 +9,7 @@
 
 ## ⚠️ **Community Projects!**
 
-SmoothDude's Rainbow Texture Pack, you can [Download it here!](https://wwww.github.com/SmoothDude6969/MRTP)</br>
+SmoothDude's Rainbow Texture Pack, you can [Download it here!](https://www.github.com/SmoothDude6969/MRTP)</br>
 [![Rainbow Pack Showcase](https://img.youtube.com/vi/gxWs-UQozRU/hqdefault.jpg)](https://www.youtube.com/watch?v=gxWs-UQozRU)
 
 SmoothDude's Texture Pack Tutorial:</br>
