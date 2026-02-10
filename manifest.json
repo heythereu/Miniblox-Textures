@@ -1,0 +1,23 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "BlitzX 530 Subs TexturePack",
+  "version": "1.0.0",
+  "description": "A browser extension to replace MiniBlox tools with custom textures for 530 subs!",
+  "author": "Not_BlitzX",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "128": "b2b_logo.png"
+  },
+  "permissions": [
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "host_permissions": [
+    "https://miniblox.io/*",
+    "https://miniblox.online/*",
+    "https://raw.githubusercontent.com/*"
+  ]
+}
